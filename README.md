@@ -1,8 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rKbf-r4Q)
 
-Read me | Visualizzazione a partire da un Dataset | Rivers of the world
 
-# Visualizzazione dei Dati dei Fiumi
+# Read me Assignment 3 | Visualizzazione a partire da un Dataset, Rivers of the world
 
 Questo progetto visualizza dati sui fiumi in un grafico a barre, dove ogni barra rappresenta un fiume e ogni continente è differenziato da un colore. Dei fiumi viene rappresentata la lunghezza e l’area. Il nome dei fiumi è indicato a sinistra delle barre corrispondenti e il nome dei continenti. I dati sono caricati dal file CSV indicato, e la visualizzazione è responsive, adattandosi alla larghezza della finestra.
 
