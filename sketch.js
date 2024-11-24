@@ -113,12 +113,6 @@ function drawTitleAndIntroduction() {
   fill(textColor); // Colore di riempimento del testo
   textStyle(BOLD); // Imposta il testo in grassetto
   text("Rivers in the World", 10, 30)
-
-  textSize(12); // Imposta la dimensione del testo
-  textAlign(LEFT, CENTER);
-  textStyle(NORMAL);
-  text("In questo dataset mostro la lunghezza e la larghezza dei fiumi con rettangoli proporzionati. ", 10, 70);
-  text("In aggiunta si può vedere un grafico che rappresenta la temperatura dei fiumi e il nome di essi divisi per continenti. ", 10, 85);
 }
 
 // Calcola l'altezza del canvas in base al numero totale di fiumi
